@@ -29,16 +29,6 @@ The RAG workflow ensures that the LLM generates reliable diagnoses and suggestio
 | **PDF Processing** | `PyPDF` | Extracts text content from PDF patient records. |
 | **Language Model** | `URI AI` | Generates the final, context-aware medical analysis and responses. |
 
-## 🚀 Future Enhancements
-
-We are planning the following updates to enhance the application's performance and scalability:
-
-* **Cloud Integration:** Support for document storage via AWS S3, Azure Blobs, and Google Drive.
-* **Performance Optimization:** Implementation of dedicated memory and caching layers.
-* **Multimodality:** Adding speech-to-text input and integration with messaging services (e.g., WhatsApp, Email).
-* **Enterprise Deployment:** Containerization and deployment on cloud platforms (e.g., AWS, GCP) for production use.
-
----
 
 ## 💻 Getting Started
 
